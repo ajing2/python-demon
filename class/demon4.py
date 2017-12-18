@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 # @Time    : 2017/6/13 22:45
 # @Author  : lingxiangxiang
-# @File    : demon4.py
+# @File    : demon4_test.py
 
 class parent(object):
     parent_name = 'parent'

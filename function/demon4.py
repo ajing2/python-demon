@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 # @Time    : 2017/6/5 22:20
 # @Author  : lingxiangxiang
-# @File    : demon4.py
+# @File    : demon4_test.py
 
 # 匿名函数：没有名字的函数
 def sum(x, y):
